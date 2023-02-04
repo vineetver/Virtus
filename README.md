@@ -13,7 +13,7 @@
 <!-- Plugin description -->
 
 <div>
-    <h3>Torva for Jetbrains</h3>
+    <h3>Virtus for Jetbrains</h3>
     <br />
     <p>
         <img
