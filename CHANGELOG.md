@@ -3,5 +3,10 @@
 # Virtus Changelog
 
 ## [Unreleased]
+
 ### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+- Support for Python, R, Go, TypeScript, SQL, JavaScript, CSS
+
+### Changed
+- UI colors for better contrast
+

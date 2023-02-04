@@ -1,27 +1,52 @@
 # Virtus
 
 ![Build](https://github.com/vineetver/Virtus/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/com.github.vineetver.virtus)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/com.github.vineetver.virtus)
 
-## Template ToDo list
-- [x] Create a new [IntelliJ Platform Plugin Template][template] project.
-- [ ] Get familiar with the [template documentation][template].
-- [ ] Verify the [pluginGroup](./gradle.properties), [plugin ID](./src/main/resources/META-INF/plugin.xml) and [sources package](./src/main/kotlin).
-- [ ] Review the [Legal Agreements](https://plugins.jetbrains.com/docs/marketplace/legal-agreements.html?from=IJPluginTemplate).
-- [ ] [Publish a plugin manually](https://plugins.jetbrains.com/docs/intellij/publishing-plugin.html?from=IJPluginTemplate) for the first time.
-- [ ] Set the Plugin ID in the above README badges.
-- [ ] Set the [Plugin Signing](https://plugins.jetbrains.com/docs/intellij/plugin-signing.html?from=IJPluginTemplate) related [secrets](https://github.com/JetBrains/intellij-platform-plugin-template#environment-variables).
-- [ ] Set the [Deployment Token](https://plugins.jetbrains.com/docs/marketplace/plugin-upload.html?from=IJPluginTemplate).
-- [ ] Click the <kbd>Watch</kbd> button on the top of the [IntelliJ Platform Plugin Template][template] to be notified about releases containing new features and fixes.
+
+|                                                   Python                                                   |                                                   Golang                                                   |
+|:----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+| ![](https://user-images.githubusercontent.com/66165922/216527223-cdecb8e6-3946-4c3b-83ae-0b2ea6008fc5.png) | ![](https://user-images.githubusercontent.com/66165922/216527303-2937c83a-6726-47e0-b3a5-120bef311710.png) |
+
 
 <!-- Plugin description -->
-This Fancy IntelliJ Platform Plugin is going to be your implementation of the brilliant ideas that you have.
 
-This specific section is a source for the [plugin.xml](/src/main/resources/META-INF/plugin.xml) file which will be extracted by the [Gradle](/build.gradle.kts) during the build process.
+<div>
+    <h3>Torva for Jetbrains</h3>
+    <br />
+    <p>
+        <img
+                alt="Screenshot"
+                src="https://user-images.githubusercontent.com/66165922/216527223-cdecb8e6-3946-4c3b-83ae-0b2ea6008fc5.png"
+                width="600"
+        />
+    </p>
+    <h3>Features</h3>
+    <ul>
+        <li>
+            <p>Emphasis on Readability: The theme is optimized for readability so you can work for extended periods of time without hurting your eyes. </p>
+            <ul>
+                <li>Syntax highlighting is more subtle and subdued</li>
+                <li>Code is easy on the eyes</li>
+                <li>Dark is dark, not washed out gray</li>
+            </ul>
+        </li>
+        <li>
+            <p>High contrast: The theme is designed for those with vision impairments, who may have difficulty distinguishing between different colors.</p>
+        </li>
+        <li>
+            <p>Accessible: Uses colors from Github syntax highlighting which is <a href="https://www.w3.org/WAI/WCAG2AA-Conformance">WCAG 2.0 AA compliant</a>.</p>
+        </li>
+        <li>
+            <p>Multiple Language Support: Supports JavaScript, Golang, HTML, CSS, Python, and R.</p>
+        </li>
+    </ul>
+</div>
 
-To keep everything working, do not remove `<!-- ... -->` sections. 
 <!-- Plugin description end -->
+
+--- 
 
 ## Installation
 
@@ -35,8 +60,5 @@ To keep everything working, do not remove `<!-- ... -->` sections.
   Download the [latest release](https://github.com/vineetver/Virtus/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
+  
 
----
-Plugin based on the [IntelliJ Platform Plugin Template][template].
-
-[template]: https://github.com/JetBrains/intellij-platform-plugin-template

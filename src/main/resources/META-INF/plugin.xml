@@ -1,18 +1,12 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.vineetver.virtus</id>
-    <name>IntelliJ Platform Plugin Virtus</name>
+    <name>Virtus</name>
     <vendor>vineetver</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.vineetver.virtus.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.vineetver.virtus.services.MyProjectService"/>
+        <themeProvider id="7d688e82-c87b-4660-9ab9-3412867994b2" path="/Virtus.theme.json"/>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.vineetver.virtus.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
-    </applicationListeners>
 </idea-plugin>
