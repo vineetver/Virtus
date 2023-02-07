@@ -1,9 +1,13 @@
 # Virtus
 
 ![Build](https://github.com/vineetver/Virtus/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/com.github.vineetver.virtus)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/com.github.vineetver.virtus)
+[![Version](https://img.shields.io/jetbrains/plugin/v/com.github.vineetver.virtus.svg)](https://plugins.jetbrains.com/plugin/com.github.vineetver.virtus)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/com.github.vineetver.virtus.svg)](https://plugins.jetbrains.com/plugin/com.github.vineetver.virtus)
 
+
+|                         JavaScript                                                                            | 
+|:-------------------------------------------------------------------------------------------------------------:|
+|  ![](https://user-images.githubusercontent.com/66165922/217125335-71c2cb60-72d8-4d7e-a937-7f29494699ed.png)   | 
 
 |                                                   Python                                                   |                                                   Golang                                                   |
 |:----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
@@ -14,14 +18,6 @@
 
 <div>
     <h3>Virtus for Jetbrains</h3>
-    <br />
-    <p>
-        <img
-                alt="Screenshot"
-                src="https://user-images.githubusercontent.com/66165922/216527223-cdecb8e6-3946-4c3b-83ae-0b2ea6008fc5.png"
-                width="600"
-        />
-    </p>
     <h3>Features</h3>
     <ul>
         <li>
@@ -37,9 +33,6 @@
         </li>
         <li>
             <p>Accessible: Uses colors from Github syntax highlighting which is <a href="https://www.w3.org/WAI/WCAG2AA-Conformance">WCAG 2.0 AA compliant</a>.</p>
-        </li>
-        <li>
-            <p>Multiple Language Support: Supports JavaScript, Golang, HTML, CSS, Python, and R.</p>
         </li>
     </ul>
 </div>
