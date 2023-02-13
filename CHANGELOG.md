@@ -4,6 +4,15 @@
 
 ## [Unreleased]
 
+### Added support for
+
+- Java, Scala, C/C++, CMake, Kotlin, GraphQL, Groovy, Ini, MakeFile, Postcss, Proto, Regex, Rust and more
+
+### Changed
+
+- Completion match foreground to accent
+- Documentation and Code Completion background to secondary
+
 ## [1.1.0] - 2023-02-07
 
 ### Added

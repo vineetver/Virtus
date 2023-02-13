@@ -85,8 +85,8 @@
     },
     "ComboPopup.border": "1,1,1,1,E6E6E6",
     "CompletionPopup": {
-      "matchForeground": "#ED94FF",
-      "matchSelectionForeground": "#ED94FF"
+      "matchForeground": "accent",
+      "matchSelectionForeground": "accent"
     },
     "Component": {
       "errorFocusColor": "#E6194B",
