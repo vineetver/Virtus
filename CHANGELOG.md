@@ -4,6 +4,19 @@
 
 ## [Unreleased]
 
+### Added
+- Temporary workaround for Kotlin Compiler `OutOfMemoryError` -> https://jb.gg/intellij-platform-kotlin-oom
+- Gradle version catalog integration
+- Gradle Kotlin DSL Lazy Property Assignment
+- Enable Gradle Build Cache
+
+### Changed
+- Dependencies - upgrade `org.jetbrains.intellij` to `1.13.3`
+- Dependencies - upgrade `org.jetbrains.kotlin.jvm` to `1.8.20`
+- Upgrade Gradle Wrapper to `8.1`
+- Remove `UnusedProperty` suppression in `gradle.properties` file
+- Rename `org.gradle.unsafe.configuration-cache` to `org.gradle.configuration-cache` in `gradle.properties`
+
 ## [1.2.0] - 2023-02-13
 
 ### Added support for
