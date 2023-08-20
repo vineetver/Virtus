@@ -4,6 +4,11 @@
 
 ## [Unreleased]
 
+### Changed
+
+- IntelliJ Platform versions - upgrade `231.*` to `232.*`
+- Dependencies - upgrade `org.jetbrains.intellij` to `1.15.0`
+
 ## [1.3.0] - 2023-04-18
 
 ### Added
