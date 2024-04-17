@@ -4,6 +4,17 @@
 
 ## [Unreleased]
 
+- Dependencies - upgrade `org.jetbrains.kotlin.jvm` to `1.9.23`
+- Dependencies - upgrade `org.jetbrains.kotlinx.kover` to `0.7.6`
+- Dependencies - upgrade `org.jetbrains.qodana` to `2023.3.1`
+- Change since/until build to `223-241.*` (2022.3-2024.1.*)
+- Upgrade Gradle Wrapper to `8.6`
+- Dependencies - upgrade `org.jetbrains.intellij` to `1.17.2`
+- Dependencies (GitHub Actions) - upgrade `actions/upload-artifact` to `4`
+- Dependencies (GitHub Actions) - upgrade `codecov/codecov-action` to `4`
+- Dependencies (GitHub Actions) - upgrade `gradle/wrapper-validation-action` to `2`
+- Dependencies (GitHub Actions) - upgrade `actions/cache` to `4`
+
 ## [1.5.0] - 2023-12-27
 
 ### Changed
