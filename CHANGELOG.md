@@ -6,7 +6,16 @@
 
 ## [1.6.0] - 2024-04-17
 
-- Dependencies - upgrade `org.jetbrains.kotlin.jvm` to `1.9.23`%0D%0A- Dependencies - upgrade `org.jetbrains.kotlinx.kover` to `0.7.6`%0D%0A- Dependencies - upgrade `org.jetbrains.qodana` to `2023.3.1`%0D%0A- Change since/until build to `223-241.*` (2022.3-2024.1.*)%0D%0A- Upgrade Gradle Wrapper to `8.6`%0D%0A- Dependencies - upgrade `org.jetbrains.intellij` to `1.17.2`%0D%0A- Dependencies (GitHub Actions) - upgrade `actions/upload-artifact` to `4`%0D%0A- Dependencies (GitHub Actions) - upgrade `codecov/codecov-action` to `4`%0D%0A- Dependencies (GitHub Actions) - upgrade `gradle/wrapper-validation-action` to `2`%0D%0A- Dependencies (GitHub Actions) - upgrade `actions/cache` to `4`%0D%0A%0A[Unreleased]: https://github.com/vineetver/Virtus/compare/v1.5.0...HEAD
+- Dependencies - upgrade `org.jetbrains.kotlin.jvm` to `1.9.23`%0D%0A- Dependencies
+- upgrade `org.jetbrains.kotlinx.kover` to `0.7.6`
+- upgrade `org.jetbrains.qodana` to `2023.3.1`
+- Change since/until build to `223-241.*` (2022.3-2024.1.*)
+- Upgrade Gradle Wrapper to `8.6`
+- upgrade `org.jetbrains.intellij` to `1.17.2`
+- upgrade `actions/upload-artifact` to `4`
+- upgrade `codecov/codecov-action` to `4`
+- upgrade `gradle/wrapper-validation-action` to `2`
+- upgrade `actions/cache` to `4`
 
 ## [1.5.0] - 2023-12-27
 
