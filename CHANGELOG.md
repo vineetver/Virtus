@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+- Change since/until build to `233-242.*` (2023.3-2024.2.*)
+
 ## [1.6.0] - 2024-04-17
 
 - Dependencies - upgrade `org.jetbrains.kotlin.jvm` to `1.9.23`%0D%0A- Dependencies
