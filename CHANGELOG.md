@@ -4,7 +4,11 @@
 
 ## [Unreleased]
 
-- Change since/until build to `233-242.*` (2023.3-2024.2.*)
+- Change since/until build to `241-243.*` 
+- Update `platformVersion` to `2024.1.7`
+- Upgrade Gradle Wrapper to `8.11.1`
+
+### Changed
 
 ## [1.6.0] - 2024-04-17
 
